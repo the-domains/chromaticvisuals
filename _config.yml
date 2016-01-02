@@ -1,6 +1,6 @@
 name: ChromaticVisuals
 favicon: null
-layout_spectrum: 0.25973285897634923
+layout_spectrum: 0.19272
 typography_spectrum: 0.18539
 title: Charlie Round-Turner - Visual Creator
 cta:
@@ -24,6 +24,6 @@ color:
     - '#b6acad'
   brandStrength: 0.75
   lightness: 0.625
-  saturation: 0.75
+  saturation: 1
   rhythmicContrast: 0.5056669702753425
 purpose: []
