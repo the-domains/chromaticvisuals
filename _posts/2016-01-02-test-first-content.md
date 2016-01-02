@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Test post
-datePublished: '2016-01-02T17:48:34.602Z'
-dateModified: '2016-01-02T17:48:30.736Z'
+datePublished: '2016-01-02T17:49:16.747Z'
+dateModified: '2016-01-02T17:49:11.068Z'
 title: Test first content
 author: []
 sourcePath: _posts/2016-01-02-test-first-content.md
@@ -28,5 +28,3 @@ _type: Article
 _Epic views rejuvenate the soul._
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c0abbe7-ca52-49f6-bb78-7a14372df5d6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cfbf490-0ea6-4458-a31b-36f1a6321e87.jpg)
