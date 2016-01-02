@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Charlie Round-Turner - Visual Creator]]></title>
         <description><![CDATA[Charlie Round-Turner - Visual Creator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chromaticvisuals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 17:04:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 17:36:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chromaticvisuals/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test first content]]></title>
-            <description><![CDATA[<article><h1>Test first content</h1><p>Epic views rejuvenate the soul.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0906aa6feeb38565efaff0250967398fc54be0b1.jpg"></article>]]></description>
-            <link>undefinedtest-first-content/index.html</link>
+            <description><![CDATA[<article><h1>Test first content</h1><p>Epic views rejuvenate the soul.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/606f945cead2ac4c95ea2aef56a5cf9353a94871.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chromaticvisuals/test-first-content/index.html</link>
             <guid isPermaLink="false">229e0aec-a5fb-47d4-b568-ed9efdf02954</guid>
-            <pubDate>Sat, 02 Jan 2016 17:04:45 GMT</pubDate>
+            <pubDate>Sat, 02 Jan 2016 17:36:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
