@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Test post
-datePublished: '2016-01-02T17:36:38.977Z'
-dateModified: '2016-01-02T17:35:15.653Z'
+datePublished: '2016-01-02T17:48:34.602Z'
+dateModified: '2016-01-02T17:48:30.736Z'
 title: Test first content
 author: []
 sourcePath: _posts/2016-01-02-test-first-content.md
